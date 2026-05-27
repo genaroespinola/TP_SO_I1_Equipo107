@@ -1,3 +1,7 @@
 Espinola Genaro
 Ewens Lairet German
 Corazza Joaquin
+
+
+A) Si alfa ve lo que subieron los demas al repositorio.
+B) Si, si alfa agrega un archivo los demas colaboradores pueden verlo.
